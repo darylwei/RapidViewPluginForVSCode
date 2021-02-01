@@ -1,13 +1,3 @@
-# RapidView
-
-[![CI Status](https://img.shields.io/travis/arlozhang/RapidView.svg?style=flat)](https://travis-ci.org/arlozhang/RapidView)
-[![Version](https://img.shields.io/cocoapods/v/RapidView.svg?style=flat)](https://cocoapods.org/pods/RapidView)
-[![License](https://img.shields.io/cocoapods/l/RapidView.svg?style=flat)](https://cocoapods.org/pods/RapidView)
-[![Platform](https://img.shields.io/cocoapods/p/RapidView.svg?style=flat)](https://cocoapods.org/pods/RapidView)
-
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## RapidView插件功能介绍
 **注:RapidView插件推荐跟LuaPanda插件同时使用，进行RapidView项目的开发，支持断点调试。如图:**
