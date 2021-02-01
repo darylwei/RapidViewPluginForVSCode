@@ -32,7 +32,7 @@
 
 ## Author
 
-darylwei,darylwei@tencent.com
+darylwei,5317116369@qq.com
 
 ## License
 
